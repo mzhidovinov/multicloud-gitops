@@ -1,6 +1,7 @@
 ---
 global:
   pattern: home-lab
+  singleArgoCD: true
   secretLoader:
     disabled: false
   # ESO backend toggle: vault (default) or kubernetes.
